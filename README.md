@@ -259,3 +259,5 @@ Analyzes and visualizes sales data using Pandas and Matplotlib.
 Does not use machine learning or external models — it's rule-based and ideal for beginners.
 
 **OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/bf21db00-ccc3-42a7-91d4-f10597714b08)
